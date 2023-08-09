@@ -1,1 +1,2 @@
 # framesDemo
+The python file shows some python Automation using Selenium and PyCharm, it should how to automate using the Firefox browser and switching frames to automate other html elements on the page that are not accessible by selenium on the default frame. We switch frame using the frame name. It then shows how to switch back to the default frame using default_content(). 
